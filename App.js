@@ -1,3 +1,4 @@
+// deuxieme modification
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
 import ProductScreen from './src/screens/ProductScreen';
